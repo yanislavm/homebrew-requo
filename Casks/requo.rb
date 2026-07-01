@@ -7,8 +7,8 @@
 #   brew install --cask requo
 
 cask "requo" do
-  version "0.1.65"
-  sha256 "63826f39e5cb4468ac95e2a912f3ec5da858e3f772363b8f20539b08d302f9a3"
+  version "0.1.66"
+  sha256 "913400501e08ace7df9b2668ec285ed136ed4dfc6ef431d4bc2cba32fd95ea01"
 
   url "https://github.com/yanislavm/requo-releases/releases/download/v#{version}/requo-v#{version}-darwin-universal.dmg"
   name "requo"
